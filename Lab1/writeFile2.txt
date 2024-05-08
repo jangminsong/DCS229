@@ -1,0 +1,10 @@
+home                   12
+me                     12
+country                10
+roads                  10
+take                   10
+the                    10
+i                       7
+to                      5
+virginia                5
+west                    5
